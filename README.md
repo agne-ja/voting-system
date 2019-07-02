@@ -1,5 +1,7 @@
 # voting-system
 Voting system project for oop class
+
+
 Program window components and their functionality:
 
 
