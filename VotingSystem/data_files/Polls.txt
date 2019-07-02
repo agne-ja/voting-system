@@ -1,0 +1,6 @@
+0,Presidential Election,2019-1-1,2019-1-21
+1,Mayor Election,2019-2-15,2019-2-22
+2,Vice President Election,2019-5-09,2019-5-11
+3,Prime Minister Election,2019-6-12,2019-6-17
+4,Chief of Staff Election,2019-12-3,2019-12-3
+5,Presidential Election 2,2020-02-08,2020-02-10
